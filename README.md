@@ -1,4 +1,4 @@
-# УП сервис на Tkinter магазин запчастей тяжелой техники
+# УП сервис на Tkinter магазин Стройматериалов ООО "СтройИнвест"
 
 ---
 
@@ -30,6 +30,3 @@
 
 <img src="erd_db.png"></img>
 
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%&lines=ZAGIDIN+MAGAMEDRAGIMOV)✨ Developer 2024 🎉](https://github.com/Zagidin)
